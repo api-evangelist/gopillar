@@ -1,0 +1,14 @@
+{
+  "repo": "gopillar",
+  "feeds": [
+    {
+      "source": "https://app.gopillar.com/",
+      "feed_url": "https://app.gopillar.com/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
