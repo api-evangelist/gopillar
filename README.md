@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GoPillar is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+GoPillar (operated by CoContest Italy Srl, Rome, Italy) is a crowdsourced architectural and interior design marketplace where homeowners, businesses, and small construction firms launch online design contests and receive dozens of proposals from a global community of 70,000+ registered architects and designers. Clients set a project timeline, brief the community, message participating designers, and select the winning concept, with follow-on one-to-one and offline executive-project services. GoPillar also runs GoPillar Academy, an e-learning platform offering professional BIM, 3D, and design courses plus custom corporate training for architecture and construction firms. GoPillar is a consumer/SMB web platform and does not publish a public developer API, SDKs, or developer documentation; this profile captures its public web identity and domain security posture for the API Evangelist network.
 
-Backed by: 500-global — https://gopillar.com
+**Areas:** Company · Architecture · Interior Design · Design Marketplace · Crowdsourcing · Construction · Real Estate · E-Learning
+
+## GoPillar on APIs.io
+
+Everything profiled for GoPillar is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gopillar/](https://apis.io/providers/gopillar/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gopillar Domain Security](https://apis.io/security/gopillar/gopillar-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gopillar.com)
+- [Pricing](https://gopillar.com/prices/)
+- [Sign up](https://app.gopillar.com/designer_registration)
+- [Support](https://gopillar.com/#faq)
+- [Blog](https://www.gopillarnews.com/)
+- [Terms of service](https://gopillar.com/terms-conditions/)
+- [Privacy policy](https://www.iubenda.com/privacy-policy/26055357)
+
+## API Evangelist rating
+
+**Kin Score 14.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 44.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gopillar/](https://apis.io/providers/gopillar/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GoPillar: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gopillar/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
